@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className="py-12">
       <h1 className="mb-2 text-3xl font-bold tracking-tight">关于我</h1>
-      <p className="mb-10 text-muted-foreground">一个正在路上的工科生。</p>
+      <p className="mb-10 text-muted-foreground"></p>
 
       <div className="space-y-5 leading-8 text-foreground/90">
         <p>
@@ -58,8 +58,8 @@ export default function About() {
       </div>
 
       <div className="mt-12 rounded-xl border border-dashed border-primary/40 bg-primary/5 p-5 text-sm leading-relaxed text-muted-foreground">
-        想改这个页面的内容？直接编辑 <code className="rounded bg-muted px-1.5 py-0.5 font-mono">src/pages/About.tsx</code>；
-        想加文章？在 <code className="rounded bg-muted px-1.5 py-0.5 font-mono">src/data/posts.ts</code> 里加一条数据就行。
+        止于至善 <code className="rounded bg-muted px-1.5 py-0.5 font-mono">src/pages/About.tsx</code>；
+         <code className="rounded bg-muted px-1.5 py-0.5 font-mono">src/data/posts.ts</code> 。
       </div>
     </div>
   )
