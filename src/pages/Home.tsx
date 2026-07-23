@@ -16,13 +16,12 @@ export default function Home() {
       <section className="py-16 sm:py-24">
         <p className="mb-3 font-mono text-sm text-primary">$ whoami</p>
         <h1 className="mb-5 text-4xl font-bold leading-tight tracking-tight sm:text-5xl">
-          记录代码、公式
+          随便记录杂感
           <br />
-          与那些想通的瞬间。
+          与学习心得。
         </h1>
         <p className="mb-8 max-w-xl leading-relaxed text-muted-foreground">
-          这里是我的技术自留地：C++ 与嵌入式的踩坑记录、数学建模的复盘、
-          学习路上的方法论。写作是为了可以安心地忘记。
+          这里是我的个人博客，记录了我在学习和生活方面的一些心得体会和经验分享。希望能对你有所帮助，也欢迎交流与讨论。
         </p>
         <div className="flex flex-wrap gap-3">
           <Link

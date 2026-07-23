@@ -4,12 +4,12 @@
 
 export const siteConfig = {
   // 站点名称（导航栏左上角）
-  name: 'DevLog',
+  name: 'Lexington\'s Blog',
   // 页脚标语
-  slogan: '用文字对抗遗忘',
+  slogan: '学问笃实生光辉',
   // 你的链接
-  github: 'https://github.com/yourname', // ← 改成你的 GitHub 主页
-  email: 'you@example.com', //              ← 改成你的邮箱
+  github: 'https://github.com/7Lexington8', // ← 改成你的 GitHub 主页
+  email: '2732558008@qq.com', //              ← 改成你的邮箱
 
   // ----------------------------------------------------------
   // 评论系统 Giscus 配置（评论数据存在你自己的 GitHub 仓库里）
