@@ -17,9 +17,9 @@ export const siteConfig = {
   // 把生成的 4 个值粘贴到下面即可
   // ----------------------------------------------------------
   giscus: {
-    repo: '', //         例如 'zhangsan/my-blog'
-    repoId: '', //       例如 'R_kgDOxxxxxx'
-    category: 'General', // 一般不用改
-    categoryId: '', //   例如 'DIC_kwDOxxxxxx'
+    repo: '7Lexington8/My-Blog',
+    repoId: 'R_kgDOTgeidQ',
+    category: 'General',
+    categoryId: 'DIC_kwDOTgeidc4DBxbv',
   },
 }
