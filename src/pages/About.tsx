@@ -9,14 +9,11 @@ export default function About() {
 
       <div className="space-y-5 leading-8 text-foreground/90">
         <p>
-          你好，我是这个博客的作者，一名信息工程专业的大一学生。
-          目前在啃 C++ 数据结构、大学物理和数学建模这三座大山，
-          也在慢慢往嵌入式和芯片的方向摸索。
+          你好，我是这个博客的作者。建这个Blog主要是记录一些想法、累积一些知识.
+          
         </p>
         <p>
-          我相信两件事：一是<strong>输出倒逼输入</strong>，写不出来的理解都是假理解；
-          二是<strong>长期主义</strong>，每天进步一点点，一年后回头看会很吓人。
-          这个博客就是这两件事的试验田。
+          目前还是苦命的通信大二，你车信院最痛苦的一年......
         </p>
       </div>
 
@@ -25,17 +22,17 @@ export default function About() {
           {
             icon: BookOpen,
             title: '正在学习',
-            items: ['C++ 数据结构与算法', '高等数学 / 大学物理', '凸优化与启发式算法'],
+            items: ['AI算法与系统', '数电模电', '复变概统'],
           },
           {
             icon: Cpu,
-            title: '技术方向',
-            items: ['嵌入式开发（Keil / STM32）', '数字 IC 与射频 IC（关注中）', 'NumPy 科学计算'],
+            title: '技术愿景',
+            items: ['数字IC（观望中）', 'AI芯片', '嵌入式'],
           },
           {
             icon: Trophy,
-            title: '正在打怪',
-            items: ['全国大学生数学建模竞赛', '电子设计竞赛（智能小车）', '英语六级'],
+            title: '竞赛愿景',
+            items: ['电赛', '数模', '大英赛'],
           },
           {
             icon: Mail,
