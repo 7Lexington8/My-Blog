@@ -58,8 +58,8 @@ export default function About() {
       </div>
 
       <div className="mt-12 rounded-xl border border-dashed border-primary/40 bg-primary/5 p-5 text-sm leading-relaxed text-muted-foreground">
-        止于至善 <code className="rounded bg-muted px-1.5 py-0.5 font-mono">src/pages/About.tsx</code>；
-         <code className="rounded bg-muted px-1.5 py-0.5 font-mono">src/data/posts.ts</code> 。
+        止于至善 <code className="rounded bg-muted px-1.5 py-0.5 font-mono"></code>；
+         <code className="rounded bg-muted px-1.5 py-0.5 font-mono"></code> 。
       </div>
     </div>
   )
