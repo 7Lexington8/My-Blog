@@ -14,7 +14,7 @@ export default function Home() {
     <div>
       {/* Hero */}
       <section className="py-16 sm:py-24">
-        <p className="mb-3 font-mono text-sm text-primary">$ whoami</p>
+        <p className="mb-3 font-mono text-sm text-primary"></p>
         <h1 className="mb-5 text-4xl font-bold leading-tight tracking-tight sm:text-5xl">
           随便记录杂感
           <br />
